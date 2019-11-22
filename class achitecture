@@ -1,0 +1,32 @@
+Game
+  Name
+  verification
+
+
+GamePlayer
+  name
+  url
+  rank
+
+Player
+  name
+  team
+  gamesPlayer
+
+Team
+  name
+  ower
+  member
+  game
+
+Figth
+  teams
+  round
+  winer
+  
+Match
+  teams
+  nbvictoire
+  round 
+
+Tournement

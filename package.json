@@ -1,0 +1,15 @@
+{
+  "name": "epibot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Jules Lefebvre <jules.lefebvre@epita.fr>",
+  "license": "GPL-3.0-or-later"
+}
